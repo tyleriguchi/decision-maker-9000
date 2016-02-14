@@ -1,5 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom';
-import App from './App';
+import DecisionMaker9000 from './containers/DecisionMaker9000';
 
-render(<App />, document.getElementById('main'));
+render(<DecisionMaker9000 />, document.getElementById('main'));
